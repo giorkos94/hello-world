@@ -1,2 +1,3 @@
-# hello-world
-my first repository for DevOps
+# maven-project
+
+Simple Maven Project
